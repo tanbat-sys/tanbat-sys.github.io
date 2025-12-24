@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="15" tvg-name="Rupavahini" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924355528250.png" group-title="Local",Rupavahini
+#EXTINF:-1 tvg-id="15" tvg-name="Rupavahini" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25661?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Rupavahini
 https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="Channel Eye" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf74e0aaa23.jpeg" group-title="Local",Channel Eye
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8
