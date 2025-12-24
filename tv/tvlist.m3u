@@ -1,9 +1,153 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rupavahini" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/002.png" group-title="Local",Rupavahini
+#EXTINF:-1 tvg-id="15" tvg-name="Rupavahini" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924355528250.png" group-title="Local",Rupavahini
 https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/National_Geographic_Logo.svg" group-title="Documentary",National Geographic
-https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-name="B4U Music" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/043.png" group-title="Local",B4U Music
+#EXTINF:-1 tvg-id="2" tvg-name="Channel Eye" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf74e0aaa23.jpeg" group-title="Local",Channel Eye
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="ITN" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf75dc099fd.png" group-title="Local",ITN
+https://edge4-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="Wasantham TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf79a3533bc.jpg" group-title="Local",Wasantham TV
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="13" tvg-name="TV Derana" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf795901733.jpg" group-title="Local",TV Derana
+https://edge3-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Swarnawahini" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7836b0c22.jpg" group-title="Local",Swarnawahini
+https://edge4-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8?dvr
+#EXTINF:-1 tvg-id="8" tvg-name="Sirasa TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7747a2bea.png" group-title="Local",Sirasa TV
+https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="6" tvg-name="Shakthi TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf769b498c4.jpg" group-title="Local",Shakthi TV
+https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="12" tvg-name="TV 1" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf78f7c96d5.png" group-title="Local",TV 1
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Hiru TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7473d26cb.jpg" group-title="Local",Hiru TV
+https://edge2-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/index.m3u8
+#EXTINF:-1 tvg-id="11" tvg-name="Supreme TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf788f54315.jpeg" group-title="Local",Supreme TV
+https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="16" tvg-name="Ada Derana 24" tvg-logo="https://tv.tanbat.com/uploads/thumb_69243634562f5.png" group-title="Local",Ada Derana 24
+https://edge2-moblive.yuppcdn.net/transsd/smil:addetv13.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Siyatha TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf77981b316.jpg" group-title="Local",Siyatha TV
+https://edge3-moblive.yuppcdn.net/transhd2/smil:siytv08.smil/playlist.m3u8?dvr
+#EXTINF:-1 tvg-id="86" tvg-name="Pragna TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_69296422b3cc4.jpeg" group-title="Local",Pragna TV
+https://edge4-moblive.yuppcdn.net/drm1/smil:pragnatvdrm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="Jaya Tv" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf76414ad99.png" group-title="Local",Jaya Tv
+https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="The Buddhist" tvg-logo="https://tv.tanbat.com/uploads/thumb_6927ed600b0fc.jpg" group-title="Local",The Buddhist
+https://edge4-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Shaddha TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf770387a9c.jpg" group-title="Local",Shaddha TV
+https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
+#EXTINF:-1 tvg-id="19" tvg-name="Verbum TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924392e9e096.png" group-title="Local",Verbum TV
+https://samson.streamerr.co:8081/verbumtv/index.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="NDTV Lanka" tvg-logo="https://tv.tanbat.com/uploads/thumb_692438ae9859e.png" group-title="Local",NDTV Lanka
+https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="76" tvg-name="B4U Music" tvg-logo="https://tv.tanbat.com/uploads/thumb_69284681d7055.png" group-title="Music",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
-#EXTINF:-1 tvg-name="STAR SPORTS 1 HD" tvg-logo="https://d3hhg1rtk1dmrv.cloudfront.net/dialogdigitizationservices/productcatalogue/dtv/4/130.png" group-title="Sports",STAR SPORTS 1 HD
-https://tvsen7.aynaott.com/sspts1/index.m3u8
+#EXTINF:-1 tvg-id="21" tvg-name="Animal Planet" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924903f13e86.png" group-title="Documentary",Animal Planet
+https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
+#EXTINF:-1 tvg-id="66" tvg-name="National Geographic" tvg-logo="https://tv.tanbat.com/uploads/thumb_6927f47228fbe.png" group-title="Documentary",National Geographic
+https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-id="98" tvg-name="Nat Geo Wild" tvg-logo="https://tv.tanbat.com/uploads/thumb_6938d7dbb8a8f.png" group-title="Documentary",Nat Geo Wild
+https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+#EXTINF:-1 tvg-id="28" tvg-name="History TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924935b88648.png" group-title="Documentary",History TV
+https://fl1.moveonjoy.com/history_channel/index.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="Star Sports 1 Hindi" tvg-logo="https://tv.tanbat.com/uploads/thumb_693a150e20e48.jpg" group-title="Sports",Star Sports 1 Hindi
+https://starsportshindiii.pages.dev/index.m3u8
+#EXTINF:-1 tvg-id="100" tvg-name="Star Sports 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_693971f41ee96.webp" group-title="Sports",Star Sports 2
+https://edge4-moblive.yuppcdn.net/drm1/smil:starsports2drm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="&flix" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249b5e71e30.png" group-title="Movies",&flix
+https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-name="Sony BBC Earth" tvg-logo="https://tv.tanbat.com/uploads/thumb_693a190ff341d.png" group-title="Documentary",Sony BBC Earth
+https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8
+#EXTINF:-1 tvg-id="3" tvg-name="Charana TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7567c3b50.png" group-title="Local",Charana TV
+https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
+#EXTINF:-1 tvg-id="17" tvg-name="Asia TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924384d9626e.png" group-title="Local",Asia TV
+https://stream.asiatvnet.com:9443/1/live/master.m3u8
+#EXTINF:-1 tvg-id="30" tvg-name="Music TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924945f07d7a.jpg" group-title="Local",Music TV
+https://edge2-moblive.yuppcdn.net/drm1/smil:musicplustvdrm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="60" tvg-name="MMC TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6927ecab789b0.jpg" group-title="Local",MMC TV
+https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/chunklist_w1034671920.m3u8
+#EXTINF:-1 tvg-id="73" tvg-name="Event TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_692842182ee0b.png" group-title="Local",Event TV
+https://edge2-moblive.yuppcdn.net/drm/smil:eventtvdrm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="74" tvg-name="Dasatha TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6928438826c8e.png" group-title="Local",Dasatha TV
+https://edge2-moblive.yuppcdn.net/drm/smil:knowledgetvdrm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="92" tvg-name="DP Education" tvg-logo="https://tv.tanbat.com/uploads/thumb_692c42fc8065b.jpg" group-title="Local",DP Education
+https://edge4-moblive.yuppcdn.net/trans1sd/smil:videdp41.smil/playlist.m3u8?dvr
+#EXTINF:-1 tvg-id="95" tvg-name="Parliament TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6936e5d2e2e54.jpg" group-title="Local",Parliament TV
+https://edge3-moblive.yuppcdn.net/drm/smil:parliamentchanneldrm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="96" tvg-name="Event TV Plus" tvg-logo="https://tv.tanbat.com/uploads/thumb_6936e67e12830.png" group-title="Local",Event TV Plus
+https://edge3-moblive.yuppcdn.net/drm/smil:eventtvplusdrm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="102" tvg-name="English Club TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_69399dcea1fb1.png" group-title="Local",English Club TV
+https://edge4-moblive.yuppcdn.net/drm1/smil:englishclubtvdrm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="40" tvg-name="Fight TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_692499b6b95e6.png" group-title="Sports",Fight TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
+#EXTINF:-1 tvg-id="41" tvg-name="Redbull TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249a554011a.png" group-title="Sports",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="42" tvg-name="Monster Jam" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249ad911d02.png" group-title="Sports",Monster Jam
+https://wurlspacemob.global.transmit.live/hls/6866cf7dd9fb5876ff1673c8/v1/answermedia_monsterjam_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="65" tvg-name="ESPIN Deportes" tvg-logo="https://tv.tanbat.com/uploads/thumb_6927f38a4b199.png" group-title="Sports",ESPIN Deportes
+https://e3.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="77" tvg-name="Cricket Gold" tvg-logo="https://tv.tanbat.com/uploads/thumb_69284741ad277.jpg" group-title="Sports",Cricket Gold
+https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
+#EXTINF:-1 tvg-id="101" tvg-name="Star Sports 1 Select" tvg-logo="https://tv.tanbat.com/uploads/thumb_69399ae143f71.webp" group-title="Sports",Star Sports 1 Select
+https://edge4-moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="31" tvg-name="30A Music TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_692494c5c40e7.png" group-title="Music",30A Music TV
+https://30a-tv.com/music.m3u8
+#EXTINF:-1 tvg-id="32" tvg-name="Show BOX" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249519e679f.jpg" group-title="Music",Show BOX
+https://epiconvh.akamaized.net/live/showbox/master_720.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="Zoom" tvg-logo="https://tv.tanbat.com/uploads/thumb_69296c62cfe3e.jpg" group-title="Music",Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+#EXTINF:-1 tvg-id="44" tvg-name="Rakuten viki" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249bd8a6021.png" group-title="Movies",Rakuten viki
+https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="45" tvg-name="AMC" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249c30b4b2a.png" group-title="Movies",AMC
+https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
+#EXTINF:-1 tvg-id="47" tvg-name="Popcorn Flix" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249d0a9d51f.png" group-title="Movies",Popcorn Flix
+https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
+#EXTINF:-1 tvg-id="48" tvg-name="CINEMAX" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249d81a091b.png" group-title="Movies",CINEMAX
+https://e3.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8?token=MqvMXcG9EHSfv4p_OHETIA&expires=1757949506&user_id=WUpMNkpzWVFCM2R3NHFyb1pnQ1JKV2x0TGkyb1RDeXBNWlZJWmJRdQ==
+#EXTINF:-1 tvg-id="99" tvg-name="Sony Movies" tvg-logo="https://tv.tanbat.com/uploads/thumb_69396cfe3fa00.png" group-title="Movies",Sony Movies
+https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="TravelXP" tvg-logo="https://tv.tanbat.com/uploads/thumb_692490db93d20.jpg" group-title="Documentary",TravelXP
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="23" tvg-name="BBC Earth" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924912c41a03.png" group-title="Documentary",BBC Earth
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="24" tvg-name="Wild Earth" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249188ab660.png" group-title="Documentary",Wild Earth
+https://wildearth-plex.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="25" tvg-name="Nature Time" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924920140759.png" group-title="Documentary",Nature Time
+https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="26" tvg-name="Love The Planet" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924927913c8d.jpg" group-title="Documentary",Love The Planet
+https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="27" tvg-name="Heritage+" tvg-logo="https://tv.tanbat.com/uploads/thumb_692493011c499.jpeg" group-title="Documentary",Heritage+
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
+#EXTINF:-1 tvg-id="29" tvg-name="Space Series" tvg-logo="https://tv.tanbat.com/uploads/thumb_692493cddf8ba.jpg" group-title="Documentary",Space Series
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
+#EXTINF:-1 tvg-id="49" tvg-name="Escape TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924a2ca253bf.png" group-title="Documentary",Escape TV
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/manifest.m3u8
+#EXTINF:-1 tvg-id="51" tvg-name="Water Bear" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924a321e41c9.jpg" group-title="Documentary",Water Bear
+https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="52" tvg-name="The Explorers" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924a3cc7d661.png" group-title="Documentary",The Explorers
+https://streams2.sofast.tv/ptnr-yupptv/title-THE-EXPLORERS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
+#EXTINF:-1 tvg-id="33" tvg-name="Mr. Bean TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_692495aaa5fef.jpg" group-title="Entertainment",Mr. Bean TV
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="LOL TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924967723d5b.png" group-title="Entertainment",LOL TV
+https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453
+#EXTINF:-1 tvg-id="1" tvg-name="Hiru TV - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7473d26cb.jpg" group-title="Mirror",Hiru TV - Mirror 2
+https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="Hiru TV - Mirror 3" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7473d26cb.jpg" group-title="Mirror",Hiru TV - Mirror 3
+https://edge4-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="7" tvg-name="Shaddha TV - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf770387a9c.jpg" group-title="Mirror",Shaddha TV - Mirror 2
+https://edge4-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Siyatha TV - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf77981b316.jpg" group-title="Mirror",Siyatha TV - Mirror 2
+https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#EXTINF:-1 tvg-id="9" tvg-name="Siyatha TV - Mirror 3" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf77981b316.jpg" group-title="Mirror",Siyatha TV - Mirror 3
+https://edge2-moblive.yuppcdn.net/transhd2/smil:siytv08.smil/playlist.m3u8?dvr
+#EXTINF:-1 tvg-id="10" tvg-name="Swarnawahini - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7836b0c22.jpg" group-title="Mirror",Swarnawahini - Mirror 2
+https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="10" tvg-name="Swarnawahini - Mirror 3" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7836b0c22.jpg" group-title="Mirror",Swarnawahini - Mirror 3
+https://edge1-moblive.yuppcdn.net/drm/smil:swarnawahinidrm.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="61" tvg-name="The Buddhist - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_6927ed600b0fc.jpg" group-title="Mirror",The Buddhist - Mirror 2
+https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8
+#EXTINF:-1 tvg-id="103" tvg-name="Star Sports 1 Hindi - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_693a150e20e48.jpg" group-title="Mirror",Star Sports 1 Hindi - Mirror 2
+https://starsportshindiii.pages.dev/720p.m3u8
+#EXTINF:-1 tvg-id="88" tvg-name="Zoom - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_69296c62cfe3e.jpg" group-title="Mirror",Zoom - Mirror 2
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
+#EXTINF:-1 tvg-id="43" tvg-name="&flix - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249b5e71e30.png" group-title="Mirror",&flix - Mirror 2
+https://edge2-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="22" tvg-name="TravelXP - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_692490db93d20.jpg" group-title="Mirror",TravelXP - Mirror 2
+https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
