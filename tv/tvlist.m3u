@@ -1,42 +1,48 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="15" tvg-name="Rupavahini" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25661?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Rupavahini
 https://edge2-moblive.yuppcdn.net/transsd/smil:runi01.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="2" tvg-name="Channel Eye" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf74e0aaa23.jpeg" group-title="Local",Channel Eye
+#EXTINF:-1 tvg-id="2" tvg-name="Channel Eye" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25662?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Channel Eye
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:nettv15.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="4" tvg-name="ITN" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf75dc099fd.png" group-title="Local",ITN
+#EXTINF:-1 tvg-id="4" tvg-name="ITN" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25663?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",ITN
 https://edge4-moblive.yuppcdn.net/transsd/smil:itn43.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="Wasantham TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf79a3533bc.jpg" group-title="Local",Wasantham TV
+#EXTINF:-1 tvg-id="14" tvg-name="Wasantham TV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25664?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Wasantham TV
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:vatv07.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="13" tvg-name="TV Derana" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf795901733.jpg" group-title="Local",TV Derana
+#EXTINF:-1 tvg-id="13" tvg-name="TV Derana" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25665?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",TV Derana
 https://edge3-moblive.yuppcdn.net/transhd2/smil:detv04.smil/index.m3u8
-#EXTINF:-1 tvg-id="10" tvg-name="Swarnawahini" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7836b0c22.jpg" group-title="Local",Swarnawahini
+#EXTINF:-1 tvg-id="10" tvg-name="Swarnawahini" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25666?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Swarnawahini
 https://edge4-moblive.yuppcdn.net/transsd/smil:swani06.smil/playlist.m3u8?dvr
-#EXTINF:-1 tvg-id="8" tvg-name="Sirasa TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7747a2bea.png" group-title="Local",Sirasa TV
+#EXTINF:-1 tvg-id="8" tvg-name="Sirasa TV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25667?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Sirasa TV
 https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="6" tvg-name="Shakthi TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf769b498c4.jpg" group-title="Local",Shakthi TV
+#EXTINF:-1 tvg-id="6" tvg-name="Shakthi TV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25668?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Shakthi TV
 https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="12" tvg-name="TV 1" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf78f7c96d5.png" group-title="Local",TV 1
+#EXTINF:-1 tvg-id="12" tvg-name="TV 1" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25669?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",TV 1
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="Hiru TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7473d26cb.jpg" group-title="Local",Hiru TV
+#EXTINF:-1 tvg-id="1" tvg-name="Hiru TV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25670?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Hiru TV
 https://edge2-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/index.m3u8
-#EXTINF:-1 tvg-id="11" tvg-name="Supreme TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf788f54315.jpeg" group-title="Local",Supreme TV
+#EXTINF:-1 tvg-id="11" tvg-name="Supreme TV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25679?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Supreme TV
 https://edge3-moblive.yuppcdn.net/transsd/smil:tnl12.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="16" tvg-name="Ada Derana 24" tvg-logo="https://tv.tanbat.com/uploads/thumb_69243634562f5.png" group-title="Local",Ada Derana 24
+#EXTINF:-1 tvg-id="16" tvg-name="Ada Derana 24" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25673?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Ada Derana 24
 https://edge2-moblive.yuppcdn.net/transsd/smil:addetv13.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="9" tvg-name="Siyatha TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf77981b316.jpg" group-title="Local",Siyatha TV
+#EXTINF:-1 tvg-id="9" tvg-name="Siyatha TV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25674?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Siyatha TV
 https://edge3-moblive.yuppcdn.net/transhd2/smil:siytv08.smil/playlist.m3u8?dvr
-#EXTINF:-1 tvg-id="86" tvg-name="Pragna TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_69296422b3cc4.jpeg" group-title="Local",Pragna TV
+#EXTINF:-1 tvg-id="9" tvg-name="Haritha TV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25675?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Haritha TV
+https://www.youtube.com/embed/live_stream?channel=UCQLv6eVNJPfzw4AHP-2O5wQ
+#EXTINF:-1 tvg-id="9" tvg-name="Rangiri Srilanka" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25680?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Rangiri Srilanka
+https://www.twitch.tv/rangirilive
+#EXTINF:-1 tvg-id="86" tvg-name="Pragna TV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25682?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Pragna TV
 https://edge4-moblive.yuppcdn.net/drm1/smil:pragnatvdrm.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="5" tvg-name="Jaya Tv" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf76414ad99.png" group-title="Local",Jaya Tv
+#EXTINF:-1 tvg-id="5" tvg-name="Jaya Tv" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25684?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Jaya Tv
 https://edge3-moblive.yuppcdn.net/drm/smil:jayamagatvdrm.smil/index.m3u8
-#EXTINF:-1 tvg-id="61" tvg-name="The Buddhist" tvg-logo="https://tv.tanbat.com/uploads/thumb_6927ed600b0fc.jpg" group-title="Local",The Buddhist
+#EXTINF:-1 tvg-id="61" tvg-name="The Buddhist" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25685?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",The Buddhist
 https://edge4-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="7" tvg-name="Shaddha TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf770387a9c.jpg" group-title="Local",Shaddha TV
+#EXTINF:-1 tvg-id="7" tvg-name="Shaddha TV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25686?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Shaddha TV
 https://edge3-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/index.m3u8
-#EXTINF:-1 tvg-id="19" tvg-name="Verbum TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924392e9e096.png" group-title="Local",Verbum TV
+#EXTINF:-1 tvg-id="19" tvg-name="Verbum TV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25688?accessKey=WkVjNWNscFhORDBLCg==" group-title="Local",Verbum TV
 https://samson.streamerr.co:8081/verbumtv/index.m3u8
-#EXTINF:-1 tvg-id="18" tvg-name="NDTV Lanka" tvg-logo="https://tv.tanbat.com/uploads/thumb_692438ae9859e.png" group-title="Local",NDTV Lanka
+#EXTINF:-1 tvg-id="18" tvg-name="NDTV" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25694?accessKey=WkVjNWNscFhORDBLCg==" group-title="News",NDTV Lanka
 https://g4wlkqqwl23a-hls-live.5centscdn.com/NDTVLANKA/1ff5fa54d14c3ff6c6bd3918bbb7db5d.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="18" tvg-name="CNN" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25694?accessKey=WkVjNWNscFhORDBLCg==" group-title="News",CNN
+https://tvsen6.aynaott.com/cnn/index.m3u8
 #EXTINF:-1 tvg-id="76" tvg-name="B4U Music" tvg-logo="https://tv.tanbat.com/uploads/thumb_69284681d7055.png" group-title="Music",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 #EXTINF:-1 tvg-id="21" tvg-name="Animal Planet" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924903f13e86.png" group-title="Documentary",Animal Planet
