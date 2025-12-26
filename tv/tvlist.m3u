@@ -89,94 +89,94 @@ https://edge4-moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.m
 #EXTINF:-1 tvg-id="100" tvg-name="Star Sports Select 2 HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25780?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Star Sports 2
 https://tvsen7.aynaott.com/ssps2hd/index.m3u8
 
-#EXTINF:-1 tvg-id="43" tvg-name="&flix" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249b5e71e30.png" group-title="Movies",&flix
+#EXTINF:-1 tvg-id="43" tvg-name="&flix" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25732?accessKey=WkVjNWNscFhORDBLCg==" group-title="Movies",&flix
 https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="104" tvg-name="Sony BBC Earth" tvg-logo="https://tv.tanbat.com/uploads/thumb_693a190ff341d.png" group-title="Documentary",Sony BBC Earth
+#EXTINF:-1 tvg-id="104" tvg-name="Sony BBC Earth" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25742?accessKey=WkVjNWNscFhORDBLCg==" group-title="Documentary",Sony BBC Earth
 https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="3" tvg-name="Charana TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7567c3b50.png" group-title="Local",Charana TV
+#EXTINF:-1 tvg-id="3" tvg-name="Charana TV" tvg-logo="https://i0.wp.com/www.charanatv.lk/wp-content/uploads/2021/08/CHARANA-LOGO.png" group-title="Local",Charana TV
 https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="17" tvg-name="Asia TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924384d9626e.png" group-title="Local",Asia TV
+#EXTINF:-1 tvg-id="17" tvg-name="Asia TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asia-tv-lk.png" group-title="Local",Asia TV
 https://stream.asiatvnet.com:9443/1/live/master.m3u8
 
-#EXTINF:-1 tvg-id="30" tvg-name="Music TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924945f07d7a.jpg" group-title="Local",Music TV
+#EXTINF:-1 tvg-id="30" tvg-name="Music TV" tvg-logo="https://www.sltmobitel.lk/backend/images/peo-tv-channel-images/015-Music-Plus-tv.png" group-title="Local",Music TV
 https://edge2-moblive.yuppcdn.net/drm1/smil:musicplustvdrm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="60" tvg-name="MMC TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6927ecab789b0.jpg" group-title="Local",MMC TV
+#EXTINF:-1 tvg-id="60" tvg-name="MMC TV" tvg-logo="https://www.sltmobitel.lk/backend/images/peo-tv-channel-images/100-MMC-TV.png" group-title="Local",MMC TV
 https://live.relentlessinnovations.net:1936/rspe-tv/rspe-tv/chunklist_w1034671920.m3u8
 
-#EXTINF:-1 tvg-id="73" tvg-name="Event TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_692842182ee0b.png" group-title="Local",Event TV
+#EXTINF:-1 tvg-id="73" tvg-name="Event TV" tvg-logo="https://www.sltmobitel.lk/backend/images/peo-tv-channel-images/020-Event-tv.png" group-title="Local",Event TV
 https://edge2-moblive.yuppcdn.net/drm/smil:eventtvdrm.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="74" tvg-name="Dasatha TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6928438826c8e.png" group-title="Local",Dasatha TV
+#EXTINF:-1 tvg-id="74" tvg-name="Dasatha TV" tvg-logo="https://www.sltmobitel.lk/backend/images/peo-tv-channel-images/18-DasathaTVnew.png" group-title="Local",Dasatha TV
 https://edge2-moblive.yuppcdn.net/drm/smil:knowledgetvdrm.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="92" tvg-name="DP Education" tvg-logo="https://tv.tanbat.com/uploads/thumb_692c42fc8065b.jpg" group-title="Local",DP Education
+#EXTINF:-1 tvg-id="92" tvg-name="DP Education" tvg-logo="https://www.dpeducation.lk/assets/logo/logo_social_en.jpg" group-title="Local",DP Education
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:videdp41.smil/playlist.m3u8?dvr
 
-#EXTINF:-1 tvg-id="95" tvg-name="Parliament TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6936e5d2e2e54.jpg" group-title="Local",Parliament TV
+#EXTINF:-1 tvg-id="95" tvg-name="Parliament TV" tvg-logo="https://www.sltmobitel.lk/backend/images/peo-tv-channel-images/091-Parliment-Chaneal.png" group-title="Local",Parliament TV
 https://edge3-moblive.yuppcdn.net/drm/smil:parliamentchanneldrm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="96" tvg-name="Event TV Plus" tvg-logo="https://tv.tanbat.com/uploads/thumb_6936e67e12830.png" group-title="Local",Event TV Plus
+#EXTINF:-1 tvg-id="96" tvg-name="Event TV Plus" tvg-logo="https://www.sltmobitel.lk/backend/images/peo-tv-channel-images/120-Event-TV-Plus.png" group-title="Local",Event TV Plus
 https://edge3-moblive.yuppcdn.net/drm/smil:eventtvplusdrm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="102" tvg-name="English Club TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_69399dcea1fb1.png" group-title="Local",English Club TV
+#EXTINF:-1 tvg-id="96" tvg-name="Event TV Extra" tvg-logo="https://www.sltmobitel.lk/backend/images/peo-tv-channel-images/220-Event-TV-Xtra.png" group-title="Local",Event TV Extra
+https://edge3-moblive.yuppcdn.net/drm/smil:eventtvextradrm.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="102" tvg-name="English Club TV" tvg-logo="https://www.sltmobitel.lk/backend/images/peo-tv-channel-images/190-English-Club-TV.png" group-title="Local",English Club TV
 https://edge4-moblive.yuppcdn.net/drm1/smil:englishclubtvdrm.smil/manifest.m3u8
 
-#EXTINF:-1 tvg-id="40" tvg-name="Fight TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_692499b6b95e6.png" group-title="Sports",Fight TV
+#EXTINF:-1 tvg-id="40" tvg-name="Fight TV" tvg-logo="https://mobibase.com/wp-content/themes/mobibase/assets/images/fighttv.png" group-title="Sports",Fight TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/70e45fc8-1f6c-4492-ac26-9868f70f4e02/manifest.m3u8
 
-#EXTINF:-1 tvg-id="41" tvg-name="Redbull TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249a554011a.png" group-title="Sports",Redbull TV
+#EXTINF:-1 tvg-id="41" tvg-name="Redbull TV" tvg-logo="https://brandeps.com/logo-download/R/Red-Bull-TV-logo-vector-01.svg" group-title="Sports",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTINF:-1 tvg-id="42" tvg-name="Monster Jam" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249ad911d02.png" group-title="Sports",Monster Jam
+#EXTINF:-1 tvg-id="42" tvg-name="Monster Jam" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/MonsterJam.png" group-title="Sports",Monster Jam
 https://wurlspacemob.global.transmit.live/hls/6866cf7dd9fb5876ff1673c8/v1/answermedia_monsterjam_1/lg_us/latest/main/hls/playlist.m3u8
 
-#EXTINF:-1 tvg-id="65" tvg-name="ESPIN Deportes" tvg-logo="https://tv.tanbat.com/uploads/thumb_6927f38a4b199.png" group-title="Sports",ESPIN Deportes
+#EXTINF:-1 tvg-id="65" tvg-name="ESPIN Deportes" tvg-logo="https://espnpressroom.com/us/files/2016/03/RS1129_ESPN_Deportes_CLR_Pos-scr-1-850x610.jpg" group-title="Sports",ESPIN Deportes
 https://e3.thetvapp.to/hls/espn-deportes/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="77" tvg-name="Cricket Gold" tvg-logo="https://tv.tanbat.com/uploads/thumb_69284741ad277.jpg" group-title="Sports",Cricket Gold
+#EXTINF:-1 tvg-id="77" tvg-name="Cricket Gold" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/tv/150/150/bnw/Cricket-Gold-Channel_black.png" group-title="Sports",Cricket Gold
 https://dltcbyrjz4q6b.cloudfront.net/scheduler/scheduleMaster/418.m3u8
 
-#EXTINF:-1 tvg-id="101" tvg-name="Star Sports 1 Select" tvg-logo="https://tv.tanbat.com/uploads/thumb_69399ae143f71.webp" group-title="Sports",Star Sports 1 Select
-https://edge4-moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="31" tvg-name="30A Music TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_692494c5c40e7.png" group-title="Music",30A Music TV
+#EXTINF:-1 tvg-id="31" tvg-name="30A Music TV" tvg-logo="https://m.media-amazon.com/images/I/61ih8Zec-zL.png" group-title="Music",30A Music TV
 https://30a-tv.com/music.m3u8
 
-#EXTINF:-1 tvg-id="32" tvg-name="Show BOX" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249519e679f.jpg" group-title="Music",Show BOX
+#EXTINF:-1 tvg-id="32" tvg-name="Show BOX" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/ShowBox_TV_logo.png" group-title="Music",Show BOX
 https://epiconvh.akamaized.net/live/showbox/master_720.m3u8
 
-#EXTINF:-1 tvg-id="88" tvg-name="Zoom" tvg-logo="https://tv.tanbat.com/uploads/thumb_69296c62cfe3e.jpg" group-title="Music",Zoom
+#EXTINF:-1 tvg-id="88" tvg-name="Zoom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png" group-title="Music",Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
-#EXTINF:-1 tvg-id="44" tvg-name="Rakuten viki" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249bd8a6021.png" group-title="Movies",Rakuten viki
+#EXTINF:-1 tvg-id="44" tvg-name="Rakuten viki" tvg-logo="https://i.pinimg.com/564x/c6/f3/34/c6f3342ebd3b33ca0426b471d7af3b97.jpg" group-title="Movies",Rakuten viki
 https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="45" tvg-name="AMC" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249c30b4b2a.png" group-title="Movies",AMC
+#EXTINF:-1 tvg-id="45" tvg-name="AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Movies",AMC
 https://bcovlive-a.akamaihd.net/ba853de442c140b7b3dc020001597c0a/us-east-1/6245817279001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="47" tvg-name="Popcorn Flix" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249d0a9d51f.png" group-title="Movies",Popcorn Flix
+#EXTINF:-1 tvg-id="47" tvg-name="Popcorn Flix" tvg-logo="https://image.roku.com/developer_channels/prod/1851d507cda92bfa66af246a6f8ffc5199d725f05e601c42804e163b663f3050.png" group-title="Movies",Popcorn Flix
 https://d1j2u714xk898n.cloudfront.net/scheduler/scheduleMaster/145.m3u8
 
-#EXTINF:-1 tvg-id="48" tvg-name="CINEMAX" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249d81a091b.png" group-title="Movies",CINEMAX
+#EXTINF:-1 tvg-id="48" tvg-name="CINEMAX" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png" group-title="Movies",CINEMAX
 https://e3.thetvapp.to/hls/CinemaxEast/tracks-v1a1/mono.m3u8?token=MqvMXcG9EHSfv4p_OHETIA&expires=1757949506&user_id=WUpMNkpzWVFCM2R3NHFyb1pnQ1JKV2x0TGkyb1RDeXBNWlZJWmJRdQ==
 
-#EXTINF:-1 tvg-id="99" tvg-name="Sony Movies" tvg-logo="https://tv.tanbat.com/uploads/thumb_69396cfe3fa00.png" group-title="Movies",Sony Movies
+#EXTINF:-1 tvg-id="99" tvg-name="Sony Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/Sony_Movies_Logo.svg" group-title="Movies",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/chunks.m3u8
 
-#EXTINF:-1 tvg-id="22" tvg-name="TravelXP" tvg-logo="https://tv.tanbat.com/uploads/thumb_692490db93d20.jpg" group-title="Documentary",TravelXP
+#EXTINF:-1 tvg-id="22" tvg-name="TravelXP" tvg-logo="https://www.newslinereport.com/online/nota_travelxp-comienza-a-emitirse-en-sri-lanka.jpg" group-title="Documentary",TravelXP
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="23" tvg-name="BBC Earth" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924912c41a03.png" group-title="Documentary",BBC Earth
+#EXTINF:-1 tvg-id="23" tvg-name="BBC Earth" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25742?accessKey=WkVjNWNscFhORDBLCg==" group-title="Documentary",BBC Earth
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24" tvg-name="Wild Earth" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249188ab660.png" group-title="Documentary",Wild Earth
+#EXTINF:-1 tvg-id="24" tvg-name="Wild Earth" tvg-logo="https://image.roku.com/developer_channels/prod/09d12195e0968c34e9eac0feb5d8c2fc9cd75eba32c1e5dcd3c6a98e9becabfe.png" group-title="Documentary",Wild Earth
 https://wildearth-plex.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-id="25" tvg-name="Nature Time" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924920140759.png" group-title="Documentary",Nature Time
+#EXTINF:-1 tvg-id="25" tvg-name="Nature Time" tvg-logo="https://images.squarespace-cdn.com/content/v1/6251c1fa9a92a842582424ef/913fbe10-de57-403e-b90c-6cd3019dacc6/Nature_Time_Logo.png" group-title="Documentary",Nature Time
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="26" tvg-name="Love The Planet" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924927913c8d.jpg" group-title="Documentary",Love The Planet
