@@ -179,62 +179,39 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-id="25" tvg-name="Nature Time" tvg-logo="https://images.squarespace-cdn.com/content/v1/6251c1fa9a92a842582424ef/913fbe10-de57-403e-b90c-6cd3019dacc6/Nature_Time_Logo.png" group-title="Documentary",Nature Time
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="26" tvg-name="Love The Planet" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924927913c8d.jpg" group-title="Documentary",Love The Planet
+#EXTINF:-1 tvg-id="26" tvg-name="Love The Planet" tvg-logo="https://worldscreen.com/wp-content/uploads/sites/12/2017/07/SamsungTVPlus-LovethePlanet-0423.jpg" group-title="Documentary",Love The Planet
 https://amg01821-lovetvchannels-lovetheplanetsp-tivify-tivify-vycsr.amagi.tv/1080p/index.m3u8
 
-#EXTINF:-1 tvg-id="27" tvg-name="Heritage+" tvg-logo="https://tv.tanbat.com/uploads/thumb_692493011c499.jpeg" group-title="Documentary",Heritage+
+#EXTINF:-1 tvg-id="27" tvg-name="Heritage+" tvg-logo="https://thetele.s3-accelerate.amazonaws.com/2023/02/rbg3jd8qeibdbhcaq4avm1om4nwh-300.jpeg" group-title="Documentary",Heritage+
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e4523706-f2a8-4b0f-b081-40fe59a46f81/manifest.m3u8
 
-#EXTINF:-1 tvg-id="29" tvg-name="Space Series" tvg-logo="https://tv.tanbat.com/uploads/thumb_692493cddf8ba.jpg" group-title="Documentary",Space Series
+#EXTINF:-1 tvg-id="29" tvg-name="Space Series" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjMxNzNhMzctMDhjMy00MmU1LThmOGQtZmRiMjc5M2U1ZjNjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Documentary",Space Series
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/18d329ef-d478-413c-b68f-c123494ac434/manifest.m3u8
 
-#EXTINF:-1 tvg-id="49" tvg-name="Escape TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924a2ca253bf.png" group-title="Documentary",Escape TV
+#EXTINF:-1 tvg-id="49" tvg-name="Escape TV" tvg-logo="https://image.roku.com/developer_channels/prod/e69d61b3e3c60938dfb0e01c29076a536812c6ef99b8ed1faab2bc25e7aa3536.png" group-title="Documentary",Escape TV
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4da91549-1762-4d60-b8b7-db07ef7ee64b/manifest.m3u8
 
-#EXTINF:-1 tvg-id="51" tvg-name="Water Bear" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924a321e41c9.jpg" group-title="Documentary",Water Bear
+#EXTINF:-1 tvg-id="51" tvg-name="Water Bear" tvg-logo="https://www.thefilmcollaborative.org/distripedia/digitaldistributionguide/img/vod/waterbear.jpg" group-title="Documentary",Water Bear
 https://waterbear-waterbear-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="52" tvg-name="The Explorers" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924a3cc7d661.png" group-title="Documentary",The Explorers
-https://streams2.sofast.tv/ptnr-yupptv/title-THE-EXPLORERS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/4804aca3-dd54-43d1-8caa-0b836a76d9e9/manifest.m3u8
-
-#EXTINF:-1 tvg-id="33" tvg-name="Mr. Bean TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_692495aaa5fef.jpg" group-title="Entertainment",Mr. Bean TV
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="34" tvg-name="LOL TV" tvg-logo="https://tv.tanbat.com/uploads/thumb_6924967723d5b.png" group-title="Entertainment",LOL TV
-https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453
-
-#EXTINF:-1 tvg-id="1" tvg-name="Hiru TV - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7473d26cb.jpg" group-title="Mirror",Hiru TV - Mirror 2
+#EXTINF:-1 tvg-id="1" tvg-name="Hiru TV - Mirror 2" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25670?accessKey=WkVjNWNscFhORDBLCg==" group-title="Mirror",Hiru TV - Mirror 2
 https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 
-#EXTINF:-1 tvg-id="1" tvg-name="Hiru TV - Mirror 3" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7473d26cb.jpg" group-title="Mirror",Hiru TV - Mirror 3
+#EXTINF:-1 tvg-id="1" tvg-name="Hiru TV - Mirror 3" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25670?accessKey=WkVjNWNscFhORDBLCg==" group-title="Mirror",Hiru TV - Mirror 3
 https://edge4-moblive.yuppcdn.net/transhd2/smil:hitv17.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="7" tvg-name="Shaddha TV - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf770387a9c.jpg" group-title="Mirror",Shaddha TV - Mirror 2
-https://edge4-moblive.yuppcdn.net/drm1/smil:shraddhatvdrm.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="9" tvg-name="Siyatha TV - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf77981b316.jpg" group-title="Mirror",Siyatha TV - Mirror 2
+#EXTINF:-1 tvg-id="9" tvg-name="Siyatha TV - Mirror 2" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25674?accessKey=WkVjNWNscFhORDBLCg==" group-title="Mirror",Siyatha TV - Mirror 2
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
 
-#EXTINF:-1 tvg-id="9" tvg-name="Siyatha TV - Mirror 3" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf77981b316.jpg" group-title="Mirror",Siyatha TV - Mirror 3
+#EXTINF:-1 tvg-id="9" tvg-name="Siyatha TV - Mirror 3" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25674?accessKey=WkVjNWNscFhORDBLCg==" group-title="Mirror",Siyatha TV - Mirror 3
 https://edge2-moblive.yuppcdn.net/transhd2/smil:siytv08.smil/playlist.m3u8?dvr
 
-#EXTINF:-1 tvg-id="10" tvg-name="Swarnawahini - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7836b0c22.jpg" group-title="Mirror",Swarnawahini - Mirror 2
+#EXTINF:-1 tvg-id="10" tvg-name="Swarnawahini - Mirror 2" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25666?accessKey=WkVjNWNscFhORDBLCg==" group-title="Mirror",Swarnawahini - Mirror 2
 https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966fd.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="10" tvg-name="Swarnawahini - Mirror 3" tvg-logo="https://tv.tanbat.com/uploads/thumb_68cf7836b0c22.jpg" group-title="Mirror",Swarnawahini - Mirror 3
+#EXTINF:-1 tvg-id="10" tvg-name="Swarnawahini - Mirror 3" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25666?accessKey=WkVjNWNscFhORDBLCg==" group-title="Mirror",Swarnawahini - Mirror 3
 https://edge1-moblive.yuppcdn.net/drm/smil:swarnawahinidrm.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="61" tvg-name="The Buddhist - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_6927ed600b0fc.jpg" group-title="Mirror",The Buddhist - Mirror 2
+#EXTINF:-1 tvg-id="61" tvg-name="The Buddhist - Mirror 2" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25685?accessKey=WkVjNWNscFhORDBLCg==" group-title="Mirror",The Buddhist - Mirror 2
 https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8
 
-#EXTINF:-1 tvg-id="103" tvg-name="Star Sports 1 Hindi - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_693a150e20e48.jpg" group-title="Mirror",Star Sports 1 Hindi - Mirror 2
-https://starsportshindiii.pages.dev/720p.m3u8
-
-#EXTINF:-1 tvg-id="88" tvg-name="Zoom - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_69296c62cfe3e.jpg" group-title="Mirror",Zoom - Mirror 2
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
-
-#EXTINF:-1 tvg-id="43" tvg-name="&flix - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_69249b5e71e30.png" group-title="Mirror",&flix - Mirror 2
-https://edge2-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/manifest.m3u8
-
-#EXTINF:-1 tvg-id="22" tvg-name="TravelXP - Mirror 2" tvg-logo="https://tv.tanbat.com/uploads/thumb_692490db93d20.jpg" group-title="Mirror",TravelXP - Mirror 2
-https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
