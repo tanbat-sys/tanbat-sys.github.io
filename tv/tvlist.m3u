@@ -72,7 +72,7 @@ https://tvsen6.aynaott.com/foxnews/index.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 
 #EXTINF:-1 tvg-id="21" tvg-name="Animal Planet" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25716?accessKey=WkVjNWNscFhORDBLCg==" group-title="Documentary",Animal Planet
-http://103.175.242.10:8080/animalplanet/index.m3u8
+http://103.175.242.10:8080/animalplanet/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="66" tvg-name="National Geographic" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25719?accessKey=WkVjNWNscFhORDBLCg==" group-title="Documentary",National Geographic
 http://103.175.242.10:8080/natgeo/index.m3u8
@@ -96,7 +96,7 @@ https://tvsen7.aynaott.com/nicklodean/index.m3u8
 https://tvsen5.aynaott.com/disneyxd/index.m3u8
 
 #EXTINF:-1 tvg-id="203" tvg-name="Disney Jr" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25712?accessKey=WkVjNWNscFhORDBLCg==" group-title="Kids",Disney Jr
-http://103.175.242.10:8080/cnhd/index.m3u8
+http://103.175.242.10:8080/cnhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="204" tvg-name="Discovery kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="Kids",Discovery kids
 http://103.175.242.10:8080/discoverykids/index.m3u8
@@ -117,13 +117,13 @@ https://edge4-moblive.yuppcdn.net/drm1/smil:starsportsselect1drm.smil/manifest.m
 https://tvsen7.aynaott.com/ssps2hd/index.m3u8
 
 #EXTINF:-1 tvg-id="1001" tvg-name="Sony Ten  1" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25724?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Sony Ten  1 
-http://stvlive.net:8080/sonyten1/index.m3u8
+http://stvlive.net:8080/sonyten1/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1002" tvg-name="Sony Ten  2" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25726?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Sony Ten  2 
-http://stvlive.net:8080/sonyten2/index.m3u8
+http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1003" tvg-name="Sony Ten  5" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25782?accessKey=WkVjNWNscFhORDBLCg==" group-title="Sports",Sony Ten  5 
-http://stvlive.net:8080/sonyten5/index.m3u8
+http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1004" tvg-name="ESPN 2" tvg-logo="https://images.seeklogo.com/logo-png/4/1/espn-2-logo-png_seeklogo-49202.png" group-title="Sports",ESPN 2
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
@@ -134,8 +134,8 @@ https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/index.m3u8
 #EXTINF:-1 tvg-id="104" tvg-name="Sony BBC Earth" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25742?accessKey=WkVjNWNscFhORDBLCg==" group-title="Documentary",Sony BBC Earth
 https://allottplay.com/tv/toffee/live.php?id=sonybbc_earth_hd&e=.m3u8
 
-#EXTINF:-1 tvg-id="1041" tvg-name="Discovery HD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/6/69/Discovery_HD_logo.PNG" group-title="Documentary",Discovery HD
-http://stvlive.net:8080/discovery/index.m3u8
+#EXTINF:-1 tvg-id="1041" tvg-name="Discovery HD" tvg-logo="https://i.imgur.com/qaDGk4q.png" group-title="Documentary",Discovery HD
+https://fl31.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-id="3" tvg-name="Charana TV" tvg-logo="https://i0.wp.com/www.charanatv.lk/wp-content/uploads/2021/08/CHARANA-LOGO.png" group-title="Local",Charana TV
 https://edge3-moblive.yuppcdn.net/transhd2/smil:chtv05.smil/index.m3u8
@@ -258,22 +258,22 @@ https://edge1-moblive.yuppcdn.net/drm/smil:swarnawahinidrm.smil/playlist.m3u8
 https://edge3-moblive.yuppcdn.net/drm1/smil:thebuddhistdrm.smil/index.m3u8
 
 #EXTINF:-1 tvg-id="1042" tvg-name="Colors HD" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25747?accessKey=WkVjNWNscFhORDBLCg==" group-title="Hindi",Colors HD
-http://stvlive.net:8080/colorshd/index.m3u8
+http://stvlive.net:8080/colorshd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1043" tvg-name="Sony SET" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25744?accessKey=WkVjNWNscFhORDBLCg==" group-title="Hindi",Sony SET
-http://stvlive.net:8080/sonyentten/index.m3u8
+http://stvlive.net:8080/sonyentten/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1044" tvg-name="Sony MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Sony_MAX_Logo_%282022%29.png/1200px-Sony_MAX_Logo_%282022%29.png" group-title="Hindi",Sony MAX
-http://stvlive.net:8080/sonymax/index.m3u8
+http://stvlive.net:8080/sonymax/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1045" tvg-name="Star Gold" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25746?accessKey=WkVjNWNscFhORDBLCg==" group-title="Hindi",Star Gold
-http://stvlive.net:8080/stargold/index.m3u8
+http://stvlive.net:8080/stargold/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1047" tvg-name="Star Movies" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25773?accessKey=WkVjNWNscFhORDBLCg==" group-title="Hindi",Star Movies
-http://stvlive.net:8080/starmovies/index.m3u8
+http://stvlive.net:8080/starmovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="1048" tvg-name="Zee Cinema" tvg-logo="https://api3.viu.lk/api/client/v1/global/images/25751?accessKey=WkVjNWNscFhORDBLCg==" group-title="Hindi",Zee Cinema
-http://stvlive.net:8080/zeecinema/index.m3u8
+http://stvlive.net:8080/zeecinema/tracks-v1a1/mono.m3u8
 
 
 
